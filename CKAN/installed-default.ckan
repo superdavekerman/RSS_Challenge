@@ -1,0 +1,179 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.03.03.01.18.01",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "ModuleManager",
+			"version": "2.7.5"
+		},
+		{
+			"name": "ZeroMiniAVC",
+			"version": "v1.04"
+		},
+		{
+			"name": "KerbalAlarmClock",
+			"version": "v3.8.4.0"
+		},
+		{
+			"name": "PreciseManeuver",
+			"version": "2:2.2.5"
+		},
+		{
+			"name": "TriggerAu-Flags",
+			"version": "v2.9.1.0"
+		},
+		{
+			"name": "SpaceY-Expanded",
+			"version": "1.3.1"
+		},
+		{
+			"name": "SpaceY-Lifters",
+			"version": "1.16"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core",
+			"version": "2.4.3"
+		},
+		{
+			"name": "IndicatorLights",
+			"version": "1.2.8"
+		},
+		{
+			"name": "KSPInterstellarExtended",
+			"version": "1.12.9"
+		},
+		{
+			"name": "FilterExtensions",
+			"version": "2.8.1.2"
+		},
+		{
+			"name": "KSP-AVC",
+			"version": "1.1.6.2"
+		},
+		{
+			"name": "HideEmptyTechNodes",
+			"version": "0.7.4"
+		},
+		{
+			"name": "KerbalJointReinforcement",
+			"version": "v3.3.1"
+		},
+		{
+			"name": "UniversalStorage",
+			"version": "1.2.2.0"
+		},
+		{
+			"name": "PersistentRotation",
+			"version": "1.8.2"
+		},
+		{
+			"name": "CommunityResourcePack",
+			"version": "0.6.6.0"
+		},
+		{
+			"name": "InterstellarFuelSwitch",
+			"version": "2.4.3"
+		},
+		{
+			"name": "TweakScale",
+			"version": "v2.3.4"
+		},
+		{
+			"name": "CommunityTechTree",
+			"version": "1:3.0.3"
+		},
+		{
+			"name": "RealSolarSystem",
+			"version": "v12.0.0"
+		},
+		{
+			"name": "RSSTextures8192",
+			"version": "v10.4"
+		},
+		{
+			"name": "Kopernicus",
+			"version": "2:release-1.2.2-4"
+		},
+		{
+			"name": "ModularFlightIntegrator",
+			"version": "1.2.3.0"
+		},
+		{
+			"name": "RSSExtrasolar",
+			"version": "1.8.5.1"
+		},
+		{
+			"name": "AviationLights",
+			"version": "v.3.12"
+		},
+		{
+			"name": "BetterBurnTime",
+			"version": "1.5.3"
+		},
+		{
+			"name": "CommunityCategoryKit",
+			"version": "1.2.2.0"
+		},
+		{
+			"name": "DefaultActionGroups",
+			"version": "1.2.1"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator",
+			"version": "6.5.2"
+		},
+		{
+			"name": "KerbalEngineerRedux",
+			"version": "1.1.2.8"
+		},
+		{
+			"name": "MechJebForAll",
+			"version": "1.2.0.0"
+		},
+		{
+			"name": "MechJeb2",
+			"version": "2.6.0.0"
+		},
+		{
+			"name": "DeepFreeze",
+			"version": "V0.23.3.0"
+		},
+		{
+			"name": "ShipManifest",
+			"version": "5.1.3.3"
+		},
+		{
+			"name": "REPOSoftTech-Agencies",
+			"version": "V1.4.6.0"
+		},
+		{
+			"name": "SMURFF",
+			"version": "1.6.1"
+		},
+		{
+			"name": "GravityTurnContinued",
+			"version": "1:1.7.6"
+		},
+		{
+			"name": "HangarExtender",
+			"version": "1:v3.4.9"
+		},
+		{
+			"name": "PersistentThrust",
+			"version": "v1.0.7"
+		},
+		{
+			"name": "SolarSailNavigator",
+			"version": "v1.0.8"
+		},
+		{
+			"name": "BetterTimeWarpCont",
+			"version": "2.3.5.4"
+		}
+	]
+}

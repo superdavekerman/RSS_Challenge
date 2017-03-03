@@ -1,0 +1,25 @@
+CKAN/GUIConfig.xml
+CKAN/downloads
+CKAN/registry.json
+GameData/
+Internals
+KSP*
+Launcher*
+Logs/
+*.log
+*.cfg
+*.dll
+*.txt
+*.loadmeta
+*.sfs
+Parts
+PluginData
+Plugins
+Resources
+Saves/Challenge/Ships/VAB/Auto-Saved Ship.craft
+Saves/scenarios
+Saves/training
+Ships/
+buildID*
+sounds
+thumbs
